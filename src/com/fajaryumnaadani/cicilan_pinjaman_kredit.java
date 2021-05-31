@@ -37,7 +37,7 @@ public class cicilan_pinjaman_kredit {
 
     public void hapus_input(){
         textPinjaman.setText("");
-        labelPinjaman.setText("");
+        labelPinjaman.setText("  Rp 0");
         textBunga.setText("");
         comboBoxLamaAngsuran.setSelectedIndex(0);
         comboBoxJenisBunga.setSelectedIndex(0);
